@@ -1,3 +1,3 @@
 this is my first webpage
 
-do not be too strick about it, okay?
+do not be too strict about it, okay?
